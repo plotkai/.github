@@ -25,22 +25,15 @@ A lightweight, 100% offline utility app featuring over 50,000 modern GenZ names,
 
 ## 💻 Tech Stack & Tools
 
-*(Note: Adjust these badges based on your actual internal repository stack)*
-
 **Mobile & Frontend:** <br/>
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+Android, Flutter, HTML, CSS, JS
 
 **Backend & Cloud:** <br/>
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+Python, Google Cloud, SQL
 
 ## 📊 GitHub Stats
 
-*(Replace `YOUR_ORG_NAME` with your actual GitHub organization username to activate these dynamic stats)*
-
-![Plotkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ORG_NAME&show_icons=true&theme=transparent&hide_border=true&title_color=3DDC84&text_color=a1a1a1)
+![Plotkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=plotkai&show_icons=true&theme=transparent&hide_border=true&title_color=3DDC84&text_color=a1a1a1)
 
 ## 📫 Let's Connect!
 
