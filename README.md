@@ -31,9 +31,6 @@ Android, Flutter, HTML, CSS, JS
 **Backend & Cloud:** <br/>
 Python, Google Cloud, SQL
 
-## 📊 GitHub Stats
-
-![Plotkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=plotkai&show_icons=true&theme=transparent&hide_border=true&title_color=3DDC84&text_color=a1a1a1)
 
 ## 📫 Let's Connect!
 
